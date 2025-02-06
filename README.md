@@ -3,19 +3,7 @@
 Este repositório contém um projeto de teste prático implementado em Java e Node.js com TypeScript.
 
 ## Estrutura do Projeto
-iniflex_test/ 
-├── .gitignore 
-├── README.md 
-    ├── java_lang/ 
-        │ ├── Funcionario.java 
-        │ ├── Main.java 
-        │ └── Pessoa.java 
-├── node/ 
-    │ ├── package.json 
-        │ └── src/ 
-            │ ├── funcionario.ts 
-            │ ├── main.ts 
-            │ └── pessoa.ts 
+iniflex_test/ ├── .gitignore ├── README.md ├── java_lang/ │ ├── Funcionario.java │ ├── Main.java │ └── Pessoa.java ├── node/ │ ├── package.json │ └── src/ │ ├── test/ │ │ ├── funcionario.test.ts │ │ ├── main.test.ts │ │ └── pessoa.test.ts │ ├── funcionario.ts │ ├── main.ts │ └── pessoa.ts
 
 
 ## Executando o Código Java
