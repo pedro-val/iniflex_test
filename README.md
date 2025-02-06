@@ -1,6 +1,7 @@
 # iniflex_test
 
 Este repositório contém um projeto de teste prático implementado em Java e Node.js com TypeScript.
+
 **Nota:** Tenho pouca experiência com Java, portanto, também desenvolvi uma versão em Node.js com TypeScript, incluindo testes, para demonstrar minhas habilidades.
 
 ## Estrutura do Projeto
