@@ -3,6 +3,8 @@
 Este repositório contém um projeto de teste prático implementado em Java e Node.js com TypeScript.
 
 ## Estrutura do Projeto
+
+```plaintext
 iniflex_test/
 ├── .gitignore
 ├── README.md
